@@ -54,7 +54,7 @@ img {
   width: 50%;
 }
 
-.c {
+div.c {
   font-size: 100%;
 }
 
@@ -62,7 +62,7 @@ img {
   text-align: center;
 }
 
-.myUL {
+ul.myUL {
   display: inline-block;
   text-align: left;
 }

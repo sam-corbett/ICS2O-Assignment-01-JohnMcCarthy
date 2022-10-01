@@ -54,11 +54,11 @@ center {
   width: 50%;
 }
 
-c {
+div.fs {
   font-size: 100%;
 }
 
-container {
+.container {
   text-align: center;
 }
 

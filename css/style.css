@@ -64,6 +64,7 @@ div.container {
 ul.myUL {
   display: inline-block;
   text-align: left;
+}
 
 a:link {
   color: lightskyblue;

@@ -10,7 +10,7 @@ body {
 h1 {
   background-color: rgb(69 56 140);
   color: rgb(255 255 255);
-  font-size: 40;
+  font-size: 40px;
   padding: 20px;
   text-align: center;
 }
@@ -72,6 +72,7 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+
 a:visited {
   color: rgb(0 250 255);
   background-color: transparent;
